@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Odkrywaj Europę na dwóch kołach
+title: Gdzie na rower
 classes: wide
 header:
   overlay_image: /assets/hero.JPG
