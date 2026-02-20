@@ -14,7 +14,7 @@ lang: pl
 
 # Ważne dla GitHub Pages:
 # Na github.io URL jest stały, a baseurl musi być nazwą repo.
-url: https://jraczk- anty.github.io
+url: https://jraczka-anty.github.io
 baseurl: /Gdzienarower.eu
 
 remote_theme: mmistakes/minimal-mistakes
