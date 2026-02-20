@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 title: Gdzie na rower
 classes: wide
 header:
