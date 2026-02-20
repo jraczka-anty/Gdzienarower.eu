@@ -1,6 +1,7 @@
 ---
 layout: splash
-title: ANTY
+title: Odkrywaj Europę na dwóch kołach
+classes: wide
 header:
   overlay_image: /assets/hero.JPG
   overlay_filter: 0.65
@@ -12,8 +13,7 @@ header:
       url: "/journal/"
 ---
 
-ANTY to więcej niż rowery.  
-To ruch, pasja, społeczność i dobra energia — budowana w praktyce, na trasie i między projektami.
+Odkrywaj Europę na dwóch kołach. Gdzienarower.eu to dom europejskiej turystyki rowerowej — tu zaczynają się Twoje rowerowe przygody.
 
 ---
 
