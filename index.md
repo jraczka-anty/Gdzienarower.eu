@@ -1,16 +1,14 @@
 ---
+---
 layout: home
 title: Gdzie na rower
 classes: wide
+entries_layout: grid
 header:
   overlay_image: /assets/hero.JPG
   overlay_filter: 0.25
-  overlay_position: "right center"
-  actions:
-    - label: "Work"
-      url: "/projekty/"
-    - label: "Journal"
-      url: "/journal/"
+  overlay_position: "center"
+---
 ---
 
 Odkrywaj Europę na dwóch kołach. Gdzienarower.eu to dom europejskiej turystyki rowerowej — tu zaczynają się Twoje rowerowe przygody.
