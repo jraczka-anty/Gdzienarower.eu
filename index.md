@@ -4,7 +4,7 @@ title: Odkrywaj Europę na dwóch kołach
 classes: wide
 header:
   overlay_image: /assets/hero.JPG
-  overlay_filter: 0.65
+  overlay_filter: 0.25
   overlay_position: "right center"
   actions:
     - label: "Work"
